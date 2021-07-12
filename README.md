@@ -1,3 +1,0 @@
-# ibmdatascience
-
-Tada Nualsanit
